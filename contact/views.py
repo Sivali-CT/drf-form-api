@@ -23,4 +23,4 @@ class ContactMessageCreateView(generics.CreateAPIView):
 class ContactFormListView(generics.ListAPIView):
     queryset = ContactForm.objects.all()
     serializer_class = ContactFormSerializer
-    permission_classes = [IsAuthenticatedOrReadOnly, ] 
+    permission_classes = [IsAuthenticated, ] 
