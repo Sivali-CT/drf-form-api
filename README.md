@@ -1,5 +1,6 @@
 # CMS
 This is solely for demonstration purposes.
+
 ![drf](https://res.cloudinary.com/andinianst93/image/upload/v1703884289/Screenshot_from_2023-12-30_04-11-09_kfrpkx.png)
 
 This web application works in conjunction with Next 14 as frontend.
